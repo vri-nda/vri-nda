@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **hangman AI game**
 
-- 🌱 I’m currently learning **web 3.0, competitive programming and web 3.0**
+- 🌱 I’m currently learning **web 3.0 and competitive programming**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
