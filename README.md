@@ -1,7 +1,4 @@
-
-
-[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://codegrills.in)
-
+[![MasterHead](https://lirp.cdn-website.com/56f88a3e/dms3rep/multi/opt/SquidGameSymbols-640w.png)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Vrinda Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
@@ -12,7 +9,7 @@
 
 - 🔭 I’m currently working on **hangman AI game**
 
-- 🌱 I’m currently learning **web 3.0 and competitive programming**
+- 🌱 I’m currently learning ** web 3.0 and competitive programming **
 
 - 👯 I’m looking to collaborate on **web development projects**
 
